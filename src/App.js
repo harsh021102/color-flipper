@@ -13,12 +13,8 @@ const Container = styled.section`
 function App() {
   return (
    <Container>
-     {/* <h2>hello</h2> */}
       <Navbar/>
-      {/* <FaGithub/>
-      <FiChevronDown/> */}
       <RGB/>
-      {/* <ExpandMoreIcon/> */}
    </Container>
   );
 }
